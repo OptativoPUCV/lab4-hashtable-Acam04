@@ -1,0 +1,6 @@
+Sun 28 Apr 2024 12:25:49 AM UTC: 
+ hashmap.c | 79 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++------
+ 1 file changed, 72 insertions(+), 7 deletions(-)
+ tests:  14|1
+total_score: 60/70
+1cdeb0e
